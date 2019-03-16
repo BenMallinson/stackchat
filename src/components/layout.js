@@ -15,7 +15,7 @@ function Layout({ children }) {
       }
     `}
       render={data => (
-        <div className="flex flex-col font-sans min-h-screen text-grey-darkest">
+        <div className="flex flex-col font-sans min-h-screen text-grey-darkest opacity-100">
           <div className="flex flex-col flex-1 justify-center max-w-xl mx-auto p-8 w-full">
             {children}
           </div>
