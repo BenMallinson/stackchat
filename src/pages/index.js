@@ -27,7 +27,7 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left pl-6'>
             <p className='text-blue text-3xl font-bold'>AT:</p>
-            <a className='no-underline text-lg font-semibold text-purple' href='https://goo.gl/maps/5XfqxsJMVGw'>STUDIO 212, HARTLEBURY, WORCESTERSHIRE</a>
+            <a className='no-underline text-lg font-semibold text-purple' rel="noreferrer" href='https://goo.gl/maps/5XfqxsJMVGw'>STUDIO 212, HARTLEBURY, WORCESTERSHIRE</a>
           </div>
         </div>
       </div>
@@ -39,12 +39,12 @@ function IndexPage () {
           </div>
         </div>
       </div>
-      <a className='mt-6 p-3 bg-white mx-auto rounded-lg w-full overflow-hidden text-xl text-center font-bold rounded-lg leading-normal bg-white text-purple hover:bg-blue hover:text-white no-underline' href='https://www.meetup.com/StackChat/' target='_blank'>FIND OUT MORE</a>
+      <a className='mt-6 p-3 bg-white mx-auto rounded-lg w-full overflow-hidden text-xl text-center font-bold rounded-lg leading-normal bg-white text-purple hover:bg-blue hover:text-white no-underline' rel="noreferrer" href='https://www.meetup.com/StackChat/' target='_blank'>FIND OUT MORE</a>
       <div className='flex items-center justify-center text-center mt-4 py-4 mx-auto w-full rounded-lg overflow-hidden'>
         <div className='text-left'>
-          <a href='https://www.twitter.com/stackchatuk' target='_blank'><img src={twitter} alt="twitter icon" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
-          <a href='https://www.meetup.com/StackChat/' target='_blank'><img src={meetup} alt="meetup link icon" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
-          <a href='mailto:contact@stackchat.uk&subject=StackChat Enquiry' target='_blank'><img alt="send email icon" src={email} className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
+          <a href='https://www.twitter.com/stackchatuk' rel="noreferrer"  target='_blank'><img src={twitter} alt="twitter icon" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
+          <a href='https://www.meetup.com/StackChat/' rel="noreferrer" target='_blank'><img src={meetup} alt="meetup link icon" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
+          <a href='mailto:contact@stackchat.uk&subject=StackChat Enquiry' rel="noreferrer" target='_blank'><img alt="send email icon" src={email} className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
         </div>
       </div>
     </Layout>
