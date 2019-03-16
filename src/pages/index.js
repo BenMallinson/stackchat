@@ -42,9 +42,9 @@ function IndexPage () {
       <a className='mt-6 p-3 bg-white mx-auto rounded-lg w-full overflow-hidden text-xl text-center font-bold rounded-lg leading-normal bg-white text-purple hover:bg-blue hover:text-white no-underline' href='https://www.meetup.com/StackChat/' target='_blank'>FIND OUT MORE</a>
       <div className='flex items-center justify-center text-center mt-4 py-4 mx-auto w-full rounded-lg overflow-hidden'>
         <div className='text-left'>
-          <a href='https://www.twitter.com/stackchatuk' target='_blank'><img src={twitter} className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
-          <a href='https://www.meetup.com/StackChat/' target='_blank'><img src={meetup} className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
-          <a href='mailto:enquiries@stackchat.uk&subject=StackChat Enquiry' target='_blank'><img src={email} className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
+          <a href='https://www.twitter.com/stackchatuk' target='_blank'><img src={twitter} alt="twitter icon" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
+          <a href='https://www.meetup.com/StackChat/' target='_blank'><img src={meetup} alt="meetup link icon" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
+          <a href='mailto:contact@stackchat.uk&subject=StackChat Enquiry' target='_blank'><img alt="send email icon" src={email} className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
         </div>
       </div>
     </Layout>
