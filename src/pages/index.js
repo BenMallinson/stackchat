@@ -10,16 +10,16 @@ import email from '../images/email.png'
 function IndexPage () {
   return (
     <Layout>
-      <SEO title='StackChat - Home' />
+      <SEO title='Home' />
       <div className='flex flex-col pb-4 bg-white rounded-lg shadow-lg tracking-wide font-bold'>
-        <img alt='STACK CHAT LOGO' src={logo} />
+        <img alt='STACK CHAT LOGO' className="rounded-lg" src={logo} />
         <h2 className='text-purple text-left md:text-4xl xs:text-2xl pl-6 md:pl-11'> MONTHLY WEB DEVELOPMENT MEETUP</h2>
       </div>
       <div className='mt-6 flex items-center px-6 py-46 bg-white p-4 mx-auto rounded-t-lg w-full overflow-hidden'>
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>NEXT EVENT:</p>
-            <p className='font-semibold text-lg text-purple'>THURSDAY 28TH MARCH 2019</p>
+            <p className='font-semibold text-lg text-purple'>THURSDAY 25TH APRIL 2019</p>
           </div>
         </div>
       </div>
@@ -35,7 +35,8 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>DISCUSSING:</p>
-            <p className='font-semibold text-purple text-lg'>AGILE & REACT HOOKS</p>
+            <p className='font-semibold text-purple text-lg'>WHEN TO SAY ENOUGH</p>
+            <p className="text-purple italic text-md py-2">Taking a serious look at what empowers you to be a developer, but also looking at when you're no longer wanting to be a developer for where you are. </p>
           </div>
         </div>
       </div>
