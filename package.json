@@ -4,11 +4,12 @@
   "version": "0.0.1",
   "author": "Ben Mallinson <ben@benmallinson.me>",
   "dependencies": {
-    "gatsby": "^2.1.4",
+    "gatsby": "^2.3.17",
     "gatsby-plugin-manifest": "^2.0.17",
     "gatsby-plugin-postcss": "^2.0.5",
     "gatsby-plugin-purgecss": "^3.1.0",
     "gatsby-plugin-react-helmet": "^3.0.6",
+    "gatsby-plugin-zopfli": "^1.0.4",
     "graphql": "^14.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.2",

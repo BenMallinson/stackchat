@@ -24,5 +24,6 @@ module.exports = {
         purgeOnly: ['src/css/style.css'],
       },
     },
+   'gatsby-plugin-zopfli'
   ],
 }
