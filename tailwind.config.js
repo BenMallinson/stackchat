@@ -49,7 +49,8 @@ let colors = {
   'grey': '#b8c2cc',
   'white': '#ffffff',
   'purple': '#BF26FF',
-  'blue': '#1F6AFE'
+  'blue': '#1F6AFE',
+  'dark-blue': '#1348af'
 }
 
 module.exports = {
@@ -532,6 +533,8 @@ module.exports = {
   maxHeight: {
     'full': '100%',
     'screen': '100vh',
+    'full-minus': 'calc(100vh - 4rem)',
+    '75': '75%'
   },
 
 
