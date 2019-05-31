@@ -23,7 +23,7 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>NEXT EVENT:</p>
-            <p className='font-semibold text-lg text-purple'>TUESDAY 28TH MAY 2019</p>
+            <p className='font-semibold text-lg text-purple'>TUESDAY 25TH JUNE 2019</p>
           </div>
         </div>
       </div>
@@ -39,10 +39,10 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>DISCUSSING:</p>
-            <p className='font-semibold text-purple text-lg'>THE MAKING OF A GREAT API</p>
-            <p className="text-purple italic text-md py-2">Everyone is writing APIs but what makes a great one? Rob Allen will take you on a tour of the most important features that you should think about when creating an API.</p>
+            <p className='font-semibold text-purple text-lg'>WHAT'S HOT AND WHAT'S NOT?</p>
+            <p className="text-purple italic text-md py-2">In this session Jack will be discussing with you what’s hot and what’s not for clients to be doing to attract and retain the top technical talent. We all want to be valued, appreciated and progress our careers so how can our companies help us achieve our goals?</p>
             <div className="mb-2 mt-4">
-              <a className='py-3 px-8 bg-blue mx-auto rounded-lg w-32 overflow-hidden text-xl text-center font-bold leading-normal text-white hover:bg-dark-blue no-underline' rel="noopener noreferrer" href='https://www.meetup.com/StackChat/events/259589149/' target='_blank'>RSVP</a>
+              <a className='py-3 px-8 bg-blue mx-auto rounded-lg w-32 overflow-hidden text-xl text-center font-bold leading-normal text-white hover:bg-dark-blue no-underline' rel="noopener noreferrer" href='https://www.meetup.com/StackChat/events/261566657/' target='_blank'>RSVP</a>
             </div>
             </div>
         </div>
