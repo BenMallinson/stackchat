@@ -9,6 +9,7 @@ import email from '../images/email.png'
 import drpg from '../images/drpg.png'
 import spinks from '../images/spinks.png'
 import wsource from '../images/wsource.jpeg'
+import wspace from '../images/ws-logo.png'
 
 function IndexPage () {
   const [isModalOpen, setIsModalOpen] = useState(false)
@@ -39,8 +40,12 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>DISCUSSING:</p>
+            <p className='text-xl leading-tight text-blue font-bold'>TALK ONE</p>
             <p className='font-semibold text-purple text-lg'>WHAT'S HOT AND WHAT'S NOT?</p>
             <p className="text-purple italic text-md py-2">In this session Jack will be discussing with you what’s hot and what’s not for clients to be doing to attract and retain the top technical talent. We all want to be valued, appreciated and progress our careers so how can our companies help us achieve our goals?</p>
+            <p className='text-xl leading-tight text-blue font-bold'>TALK TWO</p>
+            <p className='font-semibold text-purple text-lg'>STORYBOOK AND YOU</p>
+            <p className="text-purple italic text-md py-2">Have you ever wanted to interact with your JavaScript Components BEFORE you use them in your application? In this talk, I will take you through Storybook a 'user interface development environment and playground for UI components' and the benefits it can bring when creating new components.</p>
             <div className="mb-2 mt-4">
               <a className='py-3 px-8 bg-blue mx-auto rounded-lg w-32 overflow-hidden text-xl text-center font-bold leading-normal text-white hover:bg-dark-blue no-underline' rel="noopener noreferrer" href='https://www.meetup.com/StackChat/events/261566657/' target='_blank'>RSVP</a>
             </div>
@@ -54,7 +59,8 @@ function IndexPage () {
             <a href='https://www.worcestersource.club/' rel="noopener noreferrer" target='_blank'><img src={wsource} alt="worcester source meetup logo" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
             <a href='https://www.drpgroup.com' rel="noopener noreferrer" target='_blank'><img src={drpg} alt="drpg sponsor logo" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
             <a href='https://www.mortimerspinks.com/' rel="noopener noreferrer" target='_blank'><img src={spinks} alt="mortimer spinks sponsor logo" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
-          </div>
+            <a href='https://worcester.space/' rel="noopener noreferrer" target='_blank'><img src={wspace} alt="worcester space logo" className='social-img max-w-sm max-h-sm h-16 m-2' /></a>
+            </div>
         </div>
       </div>
       <a className='mt-6 p-3 bg-blue mx-auto rounded-lg w-full overflow-hidden text-xl text-center font-bold rounded-lg leading-normal text-white hover:bg-dark-blue no-underline' rel="noopener noreferrer" href='https://www.meetup.com/StackChat/' target='_blank'>FIND OUT MORE</a>
