@@ -24,7 +24,7 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>NEXT EVENT:</p>
-            <p className='font-semibold text-lg text-purple'>TUESDAY 25TH JUNE 2019</p>
+            <p className='font-semibold text-lg text-purple'>THURSDAY 25TH JULY 2019</p>
           </div>
         </div>
       </div>
@@ -40,14 +40,10 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>DISCUSSING:</p>
-            <p className='text-xl leading-tight text-blue font-bold'>TALK ONE</p>
-            <p className='font-semibold text-purple text-lg'>WHAT'S HOT AND WHAT'S NOT?</p>
-            <p className="text-purple italic text-md py-2">In this session Jack will be discussing with you what’s hot and what’s not for clients to be doing to attract and retain the top technical talent. We all want to be valued, appreciated and progress our careers so how can our companies help us achieve our goals?</p>
-            <p className='text-xl leading-tight text-blue font-bold'>TALK TWO</p>
-            <p className='font-semibold text-purple text-lg'>STORYBOOK AND YOU</p>
-            <p className="text-purple italic text-md py-2">Have you ever wanted to interact with your JavaScript Components BEFORE you use them in your application? In this talk, I will take you through Storybook a 'user interface development environment and playground for UI components' and the benefits it can bring when creating new components.</p>
+            <p className='font-semibold text-purple text-lg'>MAKING A GOOD FIRST IMPRESSION</p>
+            <p className="text-purple italic text-md py-2">We will talk about making your game stand out, why it's important to create a community around your games, and getting your first game out there.</p>
             <div className="mb-2 mt-4">
-              <a className='py-3 px-8 bg-blue mx-auto rounded-lg w-32 overflow-hidden text-xl text-center font-bold leading-normal text-white hover:bg-dark-blue no-underline' rel="noopener noreferrer" href='https://www.meetup.com/StackChat/events/261566657/' target='_blank'>RSVP</a>
+              <a className='py-3 px-8 bg-blue mx-auto rounded-lg w-32 overflow-hidden text-xl text-center font-bold leading-normal text-white hover:bg-dark-blue no-underline' rel="noopener noreferrer" href='https://www.meetup.com/StackChat/events/261505346/' target='_blank'>RSVP</a>
             </div>
             </div>
         </div>
