@@ -24,7 +24,7 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>NEXT EVENT:</p>
-            <p className='font-semibold text-lg text-purple'>THURSDAY 25TH JULY 2019</p>
+            <p className='font-semibold text-lg text-purple'>TUESDAY 24TH SEPTEMBER 2019</p>
           </div>
         </div>
       </div>
@@ -40,10 +40,10 @@ function IndexPage () {
         <div className='text-center flex-grow'>
           <div className='text-left md:pl-6'>
             <p className='text-3xl leading-tight text-blue font-bold'>DISCUSSING:</p>
-            <p className='font-semibold text-purple text-lg'>MAKING A GOOD FIRST IMPRESSION</p>
-            <p className="text-purple italic text-md py-2">We will talk about making your game stand out, why it's important to create a community around your games, and getting your first game out there.</p>
+            <p className='font-semibold text-purple text-lg'>DOMAIN DRIVEN DESIGN</p>
+            <p className="text-purple italic text-md py-2">In this session you will learn about the patterns described in the Strategic section of the 2004 book, Domain Driven Design: Tackling Complexity at the Heart of Software and how you can use them to help model your high level domains.</p>
             <div className="mb-2 mt-4">
-              <a className='py-3 px-8 bg-blue mx-auto rounded-lg w-32 overflow-hidden text-xl text-center font-bold leading-normal text-white hover:bg-dark-blue no-underline' rel="noopener noreferrer" href='https://www.meetup.com/StackChat/events/261505346/' target='_blank'>RSVP</a>
+              <a className='py-3 px-8 bg-blue mx-auto rounded-lg w-32 overflow-hidden text-xl text-center font-bold leading-normal text-white hover:bg-dark-blue no-underline' rel="noopener noreferrer" href='https://www.meetup.com/StackChat/events/261505378/' target='_blank'>RSVP</a>
             </div>
             </div>
         </div>
