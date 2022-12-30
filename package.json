@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "Ben Mallinson <ben@benmallinson.me>",
   "dependencies": {
-    "gatsby": "^2.3.17",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-manifest": "^2.0.17",
     "gatsby-plugin-postcss": "^2.0.5",
     "gatsby-plugin-purgecss": "^3.1.0",
